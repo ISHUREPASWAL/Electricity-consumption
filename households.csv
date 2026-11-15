@@ -1,0 +1,57 @@
+household_id,city,state,family_size
+HH001,Jaipur,Rajasthan,1
+HH002,Delhi,Delhi,6
+HH003,Mumbai,Maharashtra,1
+HH004,Pune,Maharashtra,5
+HH005,Bengaluru,Karnataka,6
+HH006,Lucknow,Uttar Pradesh,6
+HH007,Bhopal,Madhya Pradesh,6
+HH008,Chandigarh,Chandigarh,4
+HH009,Jaipur,Rajasthan,6
+HH010,Delhi,Delhi,5
+HH011,Mumbai,Maharashtra,4
+HH012,Pune,Maharashtra,2
+HH013,Bengaluru,Karnataka,7
+HH014,Lucknow,Uttar Pradesh,6
+HH015,Bhopal,Madhya Pradesh,5
+HH016,Chandigarh,Chandigarh,3
+HH017,Jaipur,Rajasthan,5
+HH018,Delhi,Delhi,6
+HH019,Mumbai,Maharashtra,4
+HH020,Pune,Maharashtra,1
+HH021,Bengaluru,Karnataka,7
+HH022,Lucknow,Uttar Pradesh,6
+HH023,Bhopal,Madhya Pradesh,7
+HH024,Chandigarh,Chandigarh,3
+HH025,Jaipur,Rajasthan,4
+HH026,Delhi,Delhi,1
+HH027,Mumbai,Maharashtra,4
+HH028,Pune,Maharashtra,5
+HH029,Bengaluru,Karnataka,5
+HH030,Lucknow,Uttar Pradesh,5
+HH031,Bhopal,Madhya Pradesh,4
+HH032,Chandigarh,Chandigarh,6
+HH033,Jaipur,Rajasthan,2
+HH034,Delhi,Delhi,5
+HH035,Mumbai,Maharashtra,6
+HH036,Pune,Maharashtra,1
+HH037,Bengaluru,Karnataka,4
+HH038,Lucknow,Uttar Pradesh,5
+HH039,Bhopal,Madhya Pradesh,4
+HH040,Chandigarh,Chandigarh,4
+HH041,Jaipur,Rajasthan,4
+HH042,Delhi,Delhi,5
+HH043,Mumbai,Maharashtra,1
+HH044,Pune,Maharashtra,6
+HH045,Bengaluru,Karnataka,1
+HH046,Lucknow,Uttar Pradesh,4
+HH047,Bhopal,Madhya Pradesh,3
+HH048,Chandigarh,Chandigarh,4
+HH049,Jaipur,Rajasthan,7
+HH050,Delhi,Delhi,6
+HH051,Mumbai,Maharashtra,6
+HH052,Pune,Maharashtra,2
+HH053,Bengaluru,Karnataka,1
+HH054,Lucknow,Uttar Pradesh,4
+HH055,Bhopal,Madhya Pradesh,3
+HH056,Chandigarh,Chandigarh,3

@@ -1,0 +1,393 @@
+household_id,appliance,estimated_monthly_kwh
+HH001,Refrigerator,19.37
+HH001,Air Conditioner,20.88
+HH001,Fan,21.47
+HH001,Lighting,10.88
+HH001,Television,3.77
+HH001,Washing Machine,6.35
+HH001,Other,6.84
+HH002,Refrigerator,59.26
+HH002,Air Conditioner,47.43
+HH002,Fan,38.36
+HH002,Lighting,16.5
+HH002,Television,4.55
+HH002,Washing Machine,37.18
+HH002,Other,21.98
+HH003,Refrigerator,20.33
+HH003,Air Conditioner,13.67
+HH003,Fan,12.36
+HH003,Lighting,3.43
+HH003,Television,2.57
+HH003,Washing Machine,3.26
+HH003,Other,11.19
+HH004,Refrigerator,27.42
+HH004,Air Conditioner,21.41
+HH004,Fan,46.69
+HH004,Lighting,24.61
+HH004,Television,9.8
+HH004,Washing Machine,35.78
+HH004,Other,45.69
+HH005,Refrigerator,29.75
+HH005,Air Conditioner,55.02
+HH005,Fan,48.37
+HH005,Lighting,32.44
+HH005,Television,23.64
+HH005,Washing Machine,17.57
+HH005,Other,13.69
+HH006,Refrigerator,45.77
+HH006,Air Conditioner,52.69
+HH006,Fan,44.3
+HH006,Lighting,7.79
+HH006,Television,11.06
+HH006,Washing Machine,7.73
+HH006,Other,7.7
+HH007,Refrigerator,44.3
+HH007,Air Conditioner,38.31
+HH007,Fan,21.42
+HH007,Lighting,30.69
+HH007,Television,12.09
+HH007,Washing Machine,8.13
+HH007,Other,38.14
+HH008,Refrigerator,59.21
+HH008,Air Conditioner,25.21
+HH008,Fan,45.28
+HH008,Lighting,25.36
+HH008,Television,13.36
+HH008,Washing Machine,11.0
+HH008,Other,7.14
+HH009,Refrigerator,79.71
+HH009,Air Conditioner,42.78
+HH009,Fan,37.71
+HH009,Lighting,15.73
+HH009,Television,8.42
+HH009,Washing Machine,19.63
+HH009,Other,18.92
+HH010,Refrigerator,32.04
+HH010,Air Conditioner,44.53
+HH010,Fan,27.17
+HH010,Lighting,34.54
+HH010,Television,18.57
+HH010,Washing Machine,13.78
+HH010,Other,5.63
+HH011,Refrigerator,42.9
+HH011,Air Conditioner,48.04
+HH011,Fan,18.7
+HH011,Lighting,5.66
+HH011,Television,18.47
+HH011,Washing Machine,17.67
+HH011,Other,10.57
+HH012,Refrigerator,18.87
+HH012,Air Conditioner,29.0
+HH012,Fan,16.37
+HH012,Lighting,3.81
+HH012,Television,4.0
+HH012,Washing Machine,8.53
+HH012,Other,5.83
+HH013,Refrigerator,64.03
+HH013,Air Conditioner,62.19
+HH013,Fan,42.97
+HH013,Lighting,21.08
+HH013,Television,9.29
+HH013,Washing Machine,19.82
+HH013,Other,12.51
+HH014,Refrigerator,51.87
+HH014,Air Conditioner,67.95
+HH014,Fan,31.46
+HH014,Lighting,31.11
+HH014,Television,6.11
+HH014,Washing Machine,14.56
+HH014,Other,15.58
+HH015,Refrigerator,55.07
+HH015,Air Conditioner,22.68
+HH015,Fan,44.8
+HH015,Lighting,12.23
+HH015,Television,14.31
+HH015,Washing Machine,37.95
+HH015,Other,24.02
+HH016,Refrigerator,34.06
+HH016,Air Conditioner,37.51
+HH016,Fan,36.53
+HH016,Lighting,19.32
+HH016,Television,12.04
+HH016,Washing Machine,9.66
+HH016,Other,13.62
+HH017,Refrigerator,36.87
+HH017,Air Conditioner,27.96
+HH017,Fan,37.56
+HH017,Lighting,11.67
+HH017,Television,11.17
+HH017,Washing Machine,18.81
+HH017,Other,15.81
+HH018,Refrigerator,30.74
+HH018,Air Conditioner,38.7
+HH018,Fan,22.85
+HH018,Lighting,36.0
+HH018,Television,28.75
+HH018,Washing Machine,25.93
+HH018,Other,16.43
+HH019,Refrigerator,20.94
+HH019,Air Conditioner,40.78
+HH019,Fan,18.87
+HH019,Lighting,19.07
+HH019,Television,5.63
+HH019,Washing Machine,9.81
+HH019,Other,20.49
+HH020,Refrigerator,23.74
+HH020,Air Conditioner,27.26
+HH020,Fan,11.11
+HH020,Lighting,7.68
+HH020,Television,10.48
+HH020,Washing Machine,10.03
+HH020,Other,15.39
+HH021,Refrigerator,36.96
+HH021,Air Conditioner,78.69
+HH021,Fan,34.24
+HH021,Lighting,37.62
+HH021,Television,7.52
+HH021,Washing Machine,9.37
+HH021,Other,49.66
+HH022,Refrigerator,28.49
+HH022,Air Conditioner,61.71
+HH022,Fan,35.99
+HH022,Lighting,12.94
+HH022,Television,20.22
+HH022,Washing Machine,8.86
+HH022,Other,21.9
+HH023,Refrigerator,44.16
+HH023,Air Conditioner,91.18
+HH023,Fan,23.33
+HH023,Lighting,12.48
+HH023,Television,9.88
+HH023,Washing Machine,10.69
+HH023,Other,29.47
+HH024,Refrigerator,19.97
+HH024,Air Conditioner,29.09
+HH024,Fan,25.2
+HH024,Lighting,2.95
+HH024,Television,13.89
+HH024,Washing Machine,5.0
+HH024,Other,20.2
+HH025,Refrigerator,30.61
+HH025,Air Conditioner,22.53
+HH025,Fan,41.91
+HH025,Lighting,23.46
+HH025,Television,6.3
+HH025,Washing Machine,5.45
+HH025,Other,26.55
+HH026,Refrigerator,17.49
+HH026,Air Conditioner,15.74
+HH026,Fan,14.95
+HH026,Lighting,7.62
+HH026,Television,2.75
+HH026,Washing Machine,7.65
+HH026,Other,9.38
+HH027,Refrigerator,28.05
+HH027,Air Conditioner,41.57
+HH027,Fan,45.23
+HH027,Lighting,6.5
+HH027,Television,7.9
+HH027,Washing Machine,6.92
+HH027,Other,18.08
+HH028,Refrigerator,38.75
+HH028,Air Conditioner,70.8
+HH028,Fan,32.05
+HH028,Lighting,10.56
+HH028,Television,17.11
+HH028,Washing Machine,9.63
+HH028,Other,23.05
+HH029,Refrigerator,46.47
+HH029,Air Conditioner,25.6
+HH029,Fan,27.43
+HH029,Lighting,18.02
+HH029,Television,21.69
+HH029,Washing Machine,17.82
+HH029,Other,10.58
+HH030,Refrigerator,45.01
+HH030,Air Conditioner,63.61
+HH030,Fan,35.2
+HH030,Lighting,13.31
+HH030,Television,15.56
+HH030,Washing Machine,17.38
+HH030,Other,11.85
+HH031,Refrigerator,32.41
+HH031,Air Conditioner,31.69
+HH031,Fan,27.21
+HH031,Lighting,10.98
+HH031,Television,22.52
+HH031,Washing Machine,9.52
+HH031,Other,16.64
+HH032,Refrigerator,46.15
+HH032,Air Conditioner,40.66
+HH032,Fan,33.81
+HH032,Lighting,11.51
+HH032,Television,30.78
+HH032,Washing Machine,14.55
+HH032,Other,10.16
+HH033,Refrigerator,27.64
+HH033,Air Conditioner,19.14
+HH033,Fan,19.8
+HH033,Lighting,2.66
+HH033,Television,11.13
+HH033,Washing Machine,6.56
+HH033,Other,4.48
+HH034,Refrigerator,35.19
+HH034,Air Conditioner,56.38
+HH034,Fan,19.6
+HH034,Lighting,9.41
+HH034,Television,9.07
+HH034,Washing Machine,9.2
+HH034,Other,21.35
+HH035,Refrigerator,49.28
+HH035,Air Conditioner,44.7
+HH035,Fan,38.0
+HH035,Lighting,40.98
+HH035,Television,20.42
+HH035,Washing Machine,11.29
+HH035,Other,15.86
+HH036,Refrigerator,19.36
+HH036,Air Conditioner,27.52
+HH036,Fan,10.76
+HH036,Lighting,11.48
+HH036,Television,5.57
+HH036,Washing Machine,5.23
+HH036,Other,24.56
+HH037,Refrigerator,46.01
+HH037,Air Conditioner,35.01
+HH037,Fan,34.6
+HH037,Lighting,25.87
+HH037,Television,18.2
+HH037,Washing Machine,1.67
+HH037,Other,15.57
+HH038,Refrigerator,44.91
+HH038,Air Conditioner,49.44
+HH038,Fan,26.06
+HH038,Lighting,23.71
+HH038,Television,24.42
+HH038,Washing Machine,3.06
+HH038,Other,5.68
+HH039,Refrigerator,34.82
+HH039,Air Conditioner,44.63
+HH039,Fan,19.39
+HH039,Lighting,3.32
+HH039,Television,10.17
+HH039,Washing Machine,11.15
+HH039,Other,11.16
+HH040,Refrigerator,43.57
+HH040,Air Conditioner,39.14
+HH040,Fan,18.88
+HH040,Lighting,9.51
+HH040,Television,10.49
+HH040,Washing Machine,6.99
+HH040,Other,4.38
+HH041,Refrigerator,32.79
+HH041,Air Conditioner,28.51
+HH041,Fan,20.82
+HH041,Lighting,6.99
+HH041,Television,23.5
+HH041,Washing Machine,12.75
+HH041,Other,31.13
+HH042,Refrigerator,37.42
+HH042,Air Conditioner,58.86
+HH042,Fan,37.05
+HH042,Lighting,12.35
+HH042,Television,11.54
+HH042,Washing Machine,17.49
+HH042,Other,9.58
+HH043,Refrigerator,26.9
+HH043,Air Conditioner,22.89
+HH043,Fan,21.44
+HH043,Lighting,10.01
+HH043,Television,1.99
+HH043,Washing Machine,5.41
+HH043,Other,13.85
+HH044,Refrigerator,45.78
+HH044,Air Conditioner,49.77
+HH044,Fan,37.3
+HH044,Lighting,5.84
+HH044,Television,27.88
+HH044,Washing Machine,1.61
+HH044,Other,36.95
+HH045,Refrigerator,16.9
+HH045,Air Conditioner,25.5
+HH045,Fan,6.73
+HH045,Lighting,12.32
+HH045,Television,9.11
+HH045,Washing Machine,7.73
+HH045,Other,2.36
+HH046,Refrigerator,17.76
+HH046,Air Conditioner,30.72
+HH046,Fan,29.25
+HH046,Lighting,5.94
+HH046,Television,4.36
+HH046,Washing Machine,8.39
+HH046,Other,31.02
+HH047,Refrigerator,18.09
+HH047,Air Conditioner,22.97
+HH047,Fan,14.97
+HH047,Lighting,9.2
+HH047,Television,15.06
+HH047,Washing Machine,6.29
+HH047,Other,31.38
+HH048,Refrigerator,33.73
+HH048,Air Conditioner,56.24
+HH048,Fan,23.31
+HH048,Lighting,6.55
+HH048,Television,10.44
+HH048,Washing Machine,13.14
+HH048,Other,8.95
+HH049,Refrigerator,57.86
+HH049,Air Conditioner,38.32
+HH049,Fan,20.52
+HH049,Lighting,48.86
+HH049,Television,7.66
+HH049,Washing Machine,8.01
+HH049,Other,24.41
+HH050,Refrigerator,31.71
+HH050,Air Conditioner,28.66
+HH050,Fan,22.72
+HH050,Lighting,38.06
+HH050,Television,16.83
+HH050,Washing Machine,16.68
+HH050,Other,17.79
+HH051,Refrigerator,52.88
+HH051,Air Conditioner,45.11
+HH051,Fan,38.83
+HH051,Lighting,5.23
+HH051,Television,26.46
+HH051,Washing Machine,9.8
+HH051,Other,9.66
+HH052,Refrigerator,26.46
+HH052,Air Conditioner,26.43
+HH052,Fan,28.46
+HH052,Lighting,10.36
+HH052,Television,5.54
+HH052,Washing Machine,7.01
+HH052,Other,21.62
+HH053,Refrigerator,26.17
+HH053,Air Conditioner,25.86
+HH053,Fan,22.32
+HH053,Lighting,11.35
+HH053,Television,3.47
+HH053,Washing Machine,8.8
+HH053,Other,14.36
+HH054,Refrigerator,58.16
+HH054,Air Conditioner,30.07
+HH054,Fan,25.6
+HH054,Lighting,11.52
+HH054,Television,10.68
+HH054,Washing Machine,14.95
+HH054,Other,18.26
+HH055,Refrigerator,34.91
+HH055,Air Conditioner,23.2
+HH055,Fan,21.42
+HH055,Lighting,26.82
+HH055,Television,20.9
+HH055,Washing Machine,9.08
+HH055,Other,21.2
+HH056,Refrigerator,23.73
+HH056,Air Conditioner,31.86
+HH056,Fan,23.21
+HH056,Lighting,9.06
+HH056,Television,9.83
+HH056,Washing Machine,7.93
+HH056,Other,9.19
